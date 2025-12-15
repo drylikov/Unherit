@@ -17,6 +17,7 @@ Create a subclass that can be modified without affecting the super class.
 
 ## Contents
 
+
 *   [What is this?](#what-is-this)
 *   [When should I use this?](#when-should-i-use-this)
 *   [Install](#install)
