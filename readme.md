@@ -2,7 +2,6 @@
 # unherit
 
 [![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
 
 Create a subclass that can be modified without affecting the super class.
 
