@@ -31,7 +31,6 @@ Create a subclass that can be modified without affecting the super class.
 *   [Compatibility](#compatibility)
 *   [Contribute](#contribute)
 *   [Security](#security)
-*   [License](#license)
 
 ## What is this?
 
