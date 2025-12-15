@@ -4,7 +4,6 @@
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
 
 Create a subclass that can be modified without affecting the super class.
 
