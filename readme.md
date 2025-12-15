@@ -1,8 +1,6 @@
 
 # unherit
 
-[![Build][build-badge]][build]
-
 Create a subclass that can be modified without affecting the super class.
 
 ## Contents
