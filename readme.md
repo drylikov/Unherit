@@ -41,6 +41,7 @@ Create a subclass that can be modified without affecting the super class.
 
 
 
+
 This is a tiny package lets you create a subclass, that can be modified,
 without affecting the super class.
 
